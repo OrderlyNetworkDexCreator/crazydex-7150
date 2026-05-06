@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
-  "VITE_ORDERLY_BROKER_NAME": "crazydex",
+  "VITE_ORDERLY_BROKER_NAME": "Duckstail",
   "VITE_BROKER_EOA_ADDRESS": "0x345fabbdd79619566f3c75cebad2afd929ae63c5",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "b73d89541ca45efb90e1a8c95c226503",
-  "VITE_APP_NAME": "crazydex",
+  "VITE_APP_NAME": "Duckstail",
   "VITE_APP_DESCRIPTION": "Duckstail - A next evolution DeFi exchange on Base Network",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
